@@ -60,7 +60,7 @@ _2023 – Present_
 - Used **GitLab** (branches, merge requests, CI/CD) and **Agile** workflows (Jira, Confluence, Slack)  
 - Participated in bug fixing and overall security hardening of the application
 
----
+<!-- 
 
 ### 📊 Highlighted project
 
@@ -69,7 +69,7 @@ _2023 – Present_
 - Scraped and aggregated sports statistics from multiple sources with Python  
 - Performed data cleaning, transformation and feature engineering using **pandas** and **NumPy**  
 - Built classification & regression models reaching **78% accuracy** on player performance prediction  
-- Visualized insights and model results using **Matplotlib** and **Seaborn** 
+- Visualized insights and model results using **Matplotlib** and **Seaborn** -->
 
 ---
 
