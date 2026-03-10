@@ -70,7 +70,14 @@ _2023 – Present_
 - Performed data cleaning, transformation and feature engineering using **pandas** and **NumPy**  
 - Built classification & regression models reaching **78% accuracy** on player performance prediction  
 - Visualized insights and model results using **Matplotlib** and **Seaborn** -->
+---
 
+### 🏭 Production WebSite
+- [Centre Médical de Yéhosoua](https://www.centremedicaldeyehoshoua.org)
+- [Espace Candidat](https://espacecandidat.gendarmerie.interieur.gouv.fr/)
+- [CedMecaTech](https://cedmecatech.com)
+
+ **A lot more comming 🔜** 
 ---
 
 ### 🎓 Education
