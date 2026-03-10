@@ -21,20 +21,20 @@ I'm a final-year engineering student specializing in **Data Science & AI**, curr
 - Python (pandas, NumPy)  
 - REST APIs, API Platform  
 - SQL (PostgreSQL), basic NoSQL  
-- Linux, shell scripting [file:44]
+- Linux, shell scripting 
 
 **Frontend**
 
 - JavaScript (Vue.js, React)  
 - HTML5, CSS3  
-- Responsive UI, component-based architecture [file:44]
+- Responsive UI, component-based architecture 
 
 **Data & Machine Learning**
 
 - Data processing & cleaning  
 - Feature engineering  
 - Classification & regression models  
-- Data visualization (Matplotlib, Seaborn) [file:44]
+- Data visualization (Matplotlib, Seaborn) 
 
 **DevOps & Tools**
 
@@ -58,7 +58,7 @@ _2023 – Present_
 - Integrated **FranceConnect** authentication (OAuth 2.0 / OpenID Connect), handling tokens and secure redirections  
 - Worked in **Dockerized** environments (dev, preprod, prod)  
 - Used **GitLab** (branches, merge requests, CI/CD) and **Agile** workflows (Jira, Confluence, Slack)  
-- Participated in bug fixing and overall security hardening of the application [file:44]
+- Participated in bug fixing and overall security hardening of the application
 
 ---
 
@@ -69,14 +69,14 @@ _2023 – Present_
 - Scraped and aggregated sports statistics from multiple sources with Python  
 - Performed data cleaning, transformation and feature engineering using **pandas** and **NumPy**  
 - Built classification & regression models reaching **78% accuracy** on player performance prediction  
-- Visualized insights and model results using **Matplotlib** and **Seaborn** [file:44]
+- Visualized insights and model results using **Matplotlib** and **Seaborn** 
 
 ---
 
 ### 🎓 Education
 
 - **Master’s degree in Engineering (Data & AI)** – ESIEA, Paris – _Expected 2026_  
-- **Bachelor’s Degree in Computer Science** – Université Paris Cité – _2023_ [file:44]
+- **Bachelor’s Degree in Computer Science** – Université Paris Cité – _2023_ 
 
 ---
 
@@ -91,5 +91,5 @@ _2023 – Present_
 ### 📫 How to reach me
 
 - Email: **yann.edikeu@outlook.com**  
-- LinkedIn: [Yann Edikeu](https://www.linkedin.com/in/ton-lien-ici)  
-- GitHub: [Yannn25](https://github.com/Yannn25) [file:44]
+- LinkedIn: [Yann Edikeu](https://www.linkedin.com/in/yann-edikeu-a548b9270/)  
+- GitHub: [Yannn25](https://github.com/Yannn25) 
